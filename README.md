@@ -13,3 +13,8 @@ This project is basically used to calculate the average switching power and leak
 * Make sure that expression only matches with data available on traces window.
 * Click on the file option and save plot settings as option and save the file.
 
+# Contact Information
+* SIRIPURAPU CHANDRASEKHARACHARI, VSD STUDENT, siripurapu.chari@gmail.com
+* KUNAL GHOSH, DIRECTOR VSD CORP.PVT.LTD, kunalpghosh@gmail.com
+* PHILIPP GUHRING, SOFTWARE ARCHITECTUR AT LIBRESILICON ASSOCIATION, pg@futureware.at
+* DR.GAURAV TRIVEDI, CO-PRINCIPAL INVESTIGATOR, EICT ACADEMY, IIT GUWAHATI
