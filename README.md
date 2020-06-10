@@ -1,4 +1,4 @@
-# Chandrasekhar-power-analysis-calculation
+# Opensource-power-analysis-calculation
 This project is basically used to calculate the average switching power and leakage power
 
 * Download LTspice from the link https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
