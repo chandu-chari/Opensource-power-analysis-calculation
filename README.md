@@ -18,3 +18,7 @@ This project is basically used to calculate the average switching power and leak
 * KUNAL GHOSH, DIRECTOR VSD CORP.PVT.LTD, kunalpghosh@gmail.com
 * PHILIPP GUHRING, SOFTWARE ARCHITECTUR AT LIBRESILICON ASSOCIATION, pg@futureware.at
 * DR.GAURAV TRIVEDI, CO-PRINCIPAL INVESTIGATOR, EICT ACADEMY, IIT GUWAHATI
+
+
+
+![Capture001](https://user-images.githubusercontent.com/64962972/84398562-bb9ed880-ac1d-11ea-9e46-e6d4fb2ebcca.PNG)
