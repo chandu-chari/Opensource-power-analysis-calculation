@@ -1,7 +1,13 @@
 # Opensource-power-analysis-calculation
 This project is basically used to calculate the average switching power and leakage power
 
-* Download LTspice from the link https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
+# Installation steps:
+* For installing LTspice in Ubuntu, it needs WINE software.
+* Type the following commands in linux terminal:
+* sudo apt-get install wine-stable
+* cd /tmp/
+* wget http://ltspice.linear-tech.com/software/LTspiceXVII.exe
+* wine LTspiceIV.exe
 * Install in the system and double click to launch the LTspice tool.
 * Click on file option and click New Schematic option.
 * Draw the schematic and save.
