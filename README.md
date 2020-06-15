@@ -7,7 +7,7 @@ This project is basically used to calculate the average switching power and leak
 * sudo apt-get install wine-stable
 * cd /tmp/
 * wget http://ltspice.linear-tech.com/software/LTspiceXVII.exe
-* wine LTspiceIV.exe
+* wine LTspiceXVII.exe
 * Install in the system and double click to launch the LTspice tool.
 * Click on file option and click New Schematic option.
 ![1](https://user-images.githubusercontent.com/64962972/84532763-6d183980-ad04-11ea-945a-db22cbe16ed2.PNG)
