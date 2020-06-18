@@ -1,0 +1,16 @@
+* D:\LTspice\NAND.asc
+M3 OUT A P001 0 NMOS l=0.18u w=0.36u
+M4 P001 B 0 0 NMOS l=0.18u w=0.36u
+C1 OUT 0 1µ
+V1 N001 0 1.8 Rser=0.05
+V2 A 0 PULSE(0 1.8 10ns 1ns 1ns 5ns 10ns 10)
+V3 B 0 PULSE(0 1.8 5ns 1ns 1ns 20ns 40ns 5)
+M1 N001 A OUT NC_01 PMOS l=0.18u w=0.9u
+M2 N001 B OUT NC_02 PMOS l=0.18u w=0.9u
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\DELL\Documents\LTspiceXVII\lib\cmp\standard.mos
+.tran 0 100ns 0 10ps
+.include D:\FOSSEE\eSimWorkspace\NAND\tsmc180nmcmos.lib
+.backanno
+.end
